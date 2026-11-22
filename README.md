@@ -26,7 +26,9 @@ Building a small network with static routing, automatic IP addressing, DNS resol
 
 * [Advanced Switching - VLAN, VTP, EtherChannel & Port Security](https://github.com/ankey-hub/CCNA-200-301-labs/blob/main/Switching-and-VLANs/Advanced%20Switching%20-%20VLAN%2C%20VTP%2C%20EtherChannel%20%26%20Port%20Security.md)  Configuring VTP, EtherChannel and VLANs distributed across access switches, and secure end-device connectivity.
   
-* [https://github.com/ankey-hub/CCNA-200-301-labs/blob/main/ACL/ACL%20Extended.md]
+* [Standard Access Control List (ACL) Configuration](https://github.com/ankey-hub/CCNA-200-301-labs/blob/main/ACL/ACL%20Standard.md) Filtering network traffic based on source IP addresses to restrict server access between different departments (IT vs. HR).
+  
+* [Extended Access Control List (ACL) Configuration](https://github.com/ankey-hub/CCNA-200-301-labs/blob/main/ACL/ACL%20Extended.md) Implementing granular traffic filtering by source/destination IPs and specific protocols (HTTP, ICMP) to control access to WEB and DHCP servers.
 
 I'm gradually adding more labs and documenting what I learn, including configuration steps, verification commands, troubleshooting, topology screenshots and pkt files.
  
